@@ -1,1 +1,1 @@
-œwierzaki.biz
+buraki.biz
