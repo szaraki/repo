@@ -8,7 +8,10 @@ pocz¹tek
 #include
 <bibl.h> 
 -
-w³¹czenie biblioteki, np. <stdio.h>, <conio.h>
+
+s
+
+w³¹czenie biblioteeeeeeeeki, np. <stdio.h>, <conio.h>
 #define
 NAZWA tekst 
 -

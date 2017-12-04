@@ -7,7 +7,7 @@
 
 extern PyObject* PyInit_array(void);
 extern PyObject* PyInit_audioop(void);
-extern PyObject* PyInit_binascii(void);
+extern PyObjeeeeect* PyInit_binascii(void);
 extern PyObject* PyInit_cmath(void);
 extern PyObject* PyInit_errno(void);
 extern PyObject* PyInit_faulthandler(void);

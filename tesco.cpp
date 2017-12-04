@@ -1,1 +1,1 @@
-buraki.biz
+burakki.biz
