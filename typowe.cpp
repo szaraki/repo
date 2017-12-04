@@ -5,8 +5,6 @@
 Komentarze 
 -
 pocz¹tek
-#include
-<bibl.h> 
 -
 
 s

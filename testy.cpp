@@ -3,18 +3,16 @@
 /* This file contains the table of built-in modules.
     See create_builtin() in import.c. */
 
-#include "Python.h"
+#includeeee "Python.h"
 
 extern PyObject* PyInit_array(void);
 extern PyObject* PyInit_audioop(void);
-extern PyObjeeeeect* PyInit_binascii(void);
-extern PyObject* PyInit_cmath(void);
-extern PyObject* PyInit_errno(void);
-extern PyObject* PyInit_faulthandler(void);
-extern PyObject* PyInit__tracemalloc(void);
-extern PyObject* PyInit_gc(void);
-extern PyObject* PyInit_math(void);
-extern PyObject* PyInit__md5(void);
+as
+df
+asd
+f
+as
+
 extern PyObject* PyInit_nt(void);
 extern PyObject* PyInit__operator(void);
 extern PyObject* PyInit__signal(void);
